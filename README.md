@@ -1,7 +1,7 @@
 ## 👋 Hey, This is :)
 > Definitely noob.
 
-📖 Learning React now.
+📖 Learning React now. \
 🧱 Full-stack Programmer, but master in none-stack.
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=n3wbeee&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/n3wbeee/github-readme-stats)
